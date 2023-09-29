@@ -1,0 +1,14 @@
+D:\Programação\Projetos\Exercícios\Vetores\Vetores\bin\Debug\net7.0\Vetores.exe
+D:\Programação\Projetos\Exercícios\Vetores\Vetores\bin\Debug\net7.0\Vetores.deps.json
+D:\Programação\Projetos\Exercícios\Vetores\Vetores\bin\Debug\net7.0\Vetores.runtimeconfig.json
+D:\Programação\Projetos\Exercícios\Vetores\Vetores\bin\Debug\net7.0\Vetores.dll
+D:\Programação\Projetos\Exercícios\Vetores\Vetores\bin\Debug\net7.0\Vetores.pdb
+D:\Programação\Projetos\Exercícios\Vetores\Vetores\obj\Debug\net7.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos\Exercícios\Vetores\Vetores\obj\Debug\net7.0\Vetores.AssemblyInfoInputs.cache
+D:\Programação\Projetos\Exercícios\Vetores\Vetores\obj\Debug\net7.0\Vetores.AssemblyInfo.cs
+D:\Programação\Projetos\Exercícios\Vetores\Vetores\obj\Debug\net7.0\Vetores.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos\Exercícios\Vetores\Vetores\obj\Debug\net7.0\Vetores.dll
+D:\Programação\Projetos\Exercícios\Vetores\Vetores\obj\Debug\net7.0\refint\Vetores.dll
+D:\Programação\Projetos\Exercícios\Vetores\Vetores\obj\Debug\net7.0\Vetores.pdb
+D:\Programação\Projetos\Exercícios\Vetores\Vetores\obj\Debug\net7.0\Vetores.genruntimeconfig.cache
+D:\Programação\Projetos\Exercícios\Vetores\Vetores\obj\Debug\net7.0\ref\Vetores.dll

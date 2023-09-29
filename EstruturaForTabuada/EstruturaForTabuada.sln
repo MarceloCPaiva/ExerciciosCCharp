@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstruturaForTabuada", "EstruturaForTabuada\EstruturaForTabuada.csproj", "{F38FAAAE-ED68-4C6B-9D7B-63D7D09A5134}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F38FAAAE-ED68-4C6B-9D7B-63D7D09A5134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38FAAAE-ED68-4C6B-9D7B-63D7D09A5134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38FAAAE-ED68-4C6B-9D7B-63D7D09A5134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38FAAAE-ED68-4C6B-9D7B-63D7D09A5134}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B1196E1-9C12-47FE-B4F1-46CEA1BB41DA}
+	EndGlobalSection
+EndGlobal

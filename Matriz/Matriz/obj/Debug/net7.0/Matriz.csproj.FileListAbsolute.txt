@@ -1,0 +1,14 @@
+D:\Programação\Projetos\Exercícios\Matriz\Matriz\bin\Debug\net7.0\Matriz.exe
+D:\Programação\Projetos\Exercícios\Matriz\Matriz\bin\Debug\net7.0\Matriz.deps.json
+D:\Programação\Projetos\Exercícios\Matriz\Matriz\bin\Debug\net7.0\Matriz.runtimeconfig.json
+D:\Programação\Projetos\Exercícios\Matriz\Matriz\bin\Debug\net7.0\Matriz.dll
+D:\Programação\Projetos\Exercícios\Matriz\Matriz\bin\Debug\net7.0\Matriz.pdb
+D:\Programação\Projetos\Exercícios\Matriz\Matriz\obj\Debug\net7.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos\Exercícios\Matriz\Matriz\obj\Debug\net7.0\Matriz.AssemblyInfoInputs.cache
+D:\Programação\Projetos\Exercícios\Matriz\Matriz\obj\Debug\net7.0\Matriz.AssemblyInfo.cs
+D:\Programação\Projetos\Exercícios\Matriz\Matriz\obj\Debug\net7.0\Matriz.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos\Exercícios\Matriz\Matriz\obj\Debug\net7.0\Matriz.dll
+D:\Programação\Projetos\Exercícios\Matriz\Matriz\obj\Debug\net7.0\refint\Matriz.dll
+D:\Programação\Projetos\Exercícios\Matriz\Matriz\obj\Debug\net7.0\Matriz.pdb
+D:\Programação\Projetos\Exercícios\Matriz\Matriz\obj\Debug\net7.0\Matriz.genruntimeconfig.cache
+D:\Programação\Projetos\Exercícios\Matriz\Matriz\obj\Debug\net7.0\ref\Matriz.dll

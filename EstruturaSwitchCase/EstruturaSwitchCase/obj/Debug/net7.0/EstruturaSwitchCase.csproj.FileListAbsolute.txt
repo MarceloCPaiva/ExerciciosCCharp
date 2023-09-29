@@ -1,0 +1,14 @@
+D:\Programação\Projetos\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\net7.0\EstruturaSwitchCase.exe
+D:\Programação\Projetos\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\net7.0\EstruturaSwitchCase.deps.json
+D:\Programação\Projetos\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\net7.0\EstruturaSwitchCase.runtimeconfig.json
+D:\Programação\Projetos\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\net7.0\EstruturaSwitchCase.dll
+D:\Programação\Projetos\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\bin\Debug\net7.0\EstruturaSwitchCase.pdb
+D:\Programação\Projetos\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net7.0\EstruturaSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\Projetos\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net7.0\EstruturaSwitchCase.AssemblyInfoInputs.cache
+D:\Programação\Projetos\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net7.0\EstruturaSwitchCase.AssemblyInfo.cs
+D:\Programação\Projetos\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net7.0\EstruturaSwitchCase.csproj.CoreCompileInputs.cache
+D:\Programação\Projetos\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net7.0\EstruturaSwitchCase.dll
+D:\Programação\Projetos\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net7.0\refint\EstruturaSwitchCase.dll
+D:\Programação\Projetos\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net7.0\EstruturaSwitchCase.pdb
+D:\Programação\Projetos\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net7.0\EstruturaSwitchCase.genruntimeconfig.cache
+D:\Programação\Projetos\Exercícios\EstruturaSwitchCase\EstruturaSwitchCase\obj\Debug\net7.0\ref\EstruturaSwitchCase.dll
