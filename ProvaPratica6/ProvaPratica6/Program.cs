@@ -15,32 +15,41 @@
 // -25
 // 32
 
-int n, dentro, fora, x;
-
-Console.Write("Digite a quantidade de valores inteiros X que serão lidos em seguida: ");
-n = int.Parse(Console.ReadLine());
-
-dentro = 0;
-fora = 0;
-
-int[] array = new int[n];
-
-for (int i = 0; i < n; i++)
+namespace ProvaPratica6
 {
-    Console.Write("Digite o valor: ");
-    x = int.Parse(Console.ReadLine());
 
-    if (x >= 10 && x <= 20)
+    class Program
     {
-        dentro++;
+        static void Main(string[] args)
+        {
+            int n, dentro, fora, x;
+
+            Console.Write("Digite a quantidade de valores inteiros X que serão lidos em seguida: ");
+            n = int.Parse(Console.ReadLine());
+
+            dentro = 0;
+            fora = 0;
+
+            int[] array = new int[n];
+
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write("Digite o valor: ");
+                x = int.Parse(Console.ReadLine());
+
+                if (x >= 10 && x <= 20)
+                {
+                    dentro++;
+                }
+                else
+                {
+                    fora++;
+                }
+            }
+
+            Console.WriteLine(dentro + " in");
+            Console.WriteLine(fora + " out");
+        }
     }
-    else 
-    {
-        fora++;
-    }
+
 }
-
-Console.WriteLine(dentro + " in");
-Console.WriteLine(fora + " out");
-
-
